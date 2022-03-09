@@ -1,0 +1,22 @@
+{
+  "name": "assuranceprocess",
+  "version": "1.0.0",
+  "description": "application web qui permet à tous les intervenants lors du processus de traitement de renseigner les informations qui concernent les interventions effectuées pour le patient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oumaimabenrabeh96/backendApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oumaimabenrabeh96/backendApp/issues"
+  },
+  "homepage": "https://github.com/oumaimabenrabeh96/backendApp#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
